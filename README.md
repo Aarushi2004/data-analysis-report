@@ -16,7 +16,7 @@ This project demonstrates **RFM (Recency, Frequency, Monetary)** analysis to seg
 ### Contents:
 
 * `rfm_analysis.ipynb`: Python code for data cleaning and RFM scoring
-* `transactions.csv`: Sample transaction dataset
+* `merged dataset.csv`: Sample transaction dataset
 * `rfm_dashboard.pbix`: Power BI dashboard
 * `rfm_presentation.pptx`: Summary of insights and business recommendations
 
