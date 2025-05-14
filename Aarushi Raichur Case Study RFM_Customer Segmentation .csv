@@ -1,0 +1,1282 @@
+,Client_ID,Recency,Frequency,Monetary,R,F,M,RFM_Score,Segment
+0,1,2480,18,9016.68,1,1,1,111,Dormant Customers
+1,2,2480,8,25950.03,1,1,1,111,Dormant Customers
+2,3,2508,20,4261.68,1,1,1,111,Dormant Customers
+3,4,2507,22,8016.56,1,1,1,111,Dormant Customers
+4,5,2815,6,5211.69,3,1,1,311,Recent Buyers
+5,6,2487,22,15466.59,1,1,1,111,Dormant Customers
+6,7,2570,29,13716.69,3,3,1,331,Frequent but low spending
+7,8,2494,56,58809.14,1,3,3,133,At Risk Loyalists
+8,9,2498,4,6519.53,1,1,1,111,Dormant Customers
+9,10,2478,24,41416.67,1,1,3,113,Big Spenders Gone Silent
+10,11,2480,28,52949.98,1,1,3,113,Big Spenders Gone Silent
+11,12,2484,6,35950.0,1,1,3,113,Big Spenders Gone Silent
+12,13,2777,23,4533.33,3,1,1,311,Recent Buyers
+13,14,2500,14,15949.92,1,1,1,111,Dormant Customers
+14,15,2837,2,487.5,3,1,1,311,Recent Buyers
+15,16,2505,12,14983.26,1,1,1,111,Dormant Customers
+16,17,2520,26,2309.88,1,1,1,111,Dormant Customers
+17,18,2487,24,10466.67,1,1,1,111,Dormant Customers
+18,19,2655,14,4695.81,3,1,1,311,Recent Buyers
+19,20,2487,12,6049.96,1,1,1,111,Dormant Customers
+20,21,2822,12,2850.0,3,1,1,311,Recent Buyers
+21,22,2506,20,9500.01,1,1,1,111,Dormant Customers
+22,23,2863,2,560.0,3,1,1,311,Recent Buyers
+23,24,2682,18,1725.03,3,1,1,311,Recent Buyers
+24,25,2480,52,23636.63,1,3,1,131,At Risk Loyalists
+25,26,2491,16,33783.35,1,1,3,113,Big Spenders Gone Silent
+26,27,2490,30,38441.66,1,3,3,133,At Risk Loyalists
+27,28,2765,8,1150.0,3,1,1,311,Recent Buyers
+28,29,2494,26,15269.88,1,1,1,111,Dormant Customers
+29,30,2662,44,22537.57,3,3,1,331,Frequent but low spending
+30,31,2491,10,27883.36,1,1,1,111,Dormant Customers
+31,32,2506,22,9941.64,1,1,1,111,Dormant Customers
+32,33,2490,28,13670.0,1,1,1,111,Dormant Customers
+33,34,2487,8,25850.04,1,1,1,111,Dormant Customers
+34,35,2501,18,32070.0,1,1,1,111,Dormant Customers
+35,36,2829,6,559.98,3,1,1,311,Recent Buyers
+36,37,2478,2,20100.04,1,1,1,111,Dormant Customers
+37,38,2480,30,36491.66,1,3,3,133,At Risk Loyalists
+38,39,2507,28,26266.6,1,1,1,111,Dormant Customers
+39,40,2501,26,33231.24,1,1,1,111,Dormant Customers
+40,41,2494,30,37545.79,1,3,3,133,At Risk Loyalists
+41,42,2506,26,10950.0,1,1,1,111,Dormant Customers
+42,43,2490,28,51512.5,1,1,3,113,Big Spenders Gone Silent
+43,44,2479,8,6700.03,1,1,1,111,Dormant Customers
+44,45,2563,22,6325.0,3,1,1,311,Recent Buyers
+45,46,2487,48,55355.26,1,3,3,133,At Risk Loyalists
+46,47,2576,20,21083.3,3,1,1,311,Recent Buyers
+47,48,2494,8,13049.94,1,1,1,111,Dormant Customers
+48,49,2484,14,15949.92,1,1,1,111,Dormant Customers
+49,50,2507,8,13049.94,1,1,1,111,Dormant Customers
+50,51,2637,20,4833.3,3,1,1,311,Recent Buyers
+51,52,2752,8,3919.49,3,1,1,311,Recent Buyers
+52,53,2492,32,8629.99,1,3,1,131,At Risk Loyalists
+53,54,2485,30,18849.9,1,3,1,131,At Risk Loyalists
+54,55,2493,41,25674.92,1,3,1,131,At Risk Loyalists
+55,56,2501,48,138191.85,1,3,3,133,At Risk Loyalists
+56,57,2491,30,18308.24,1,3,1,131,At Risk Loyalists
+57,58,2487,3,1059.45,1,1,1,111,Dormant Customers
+58,59,2501,4,33050.0,1,1,1,111,Dormant Customers
+59,60,2487,4,22083.37,1,1,1,111,Dormant Customers
+60,61,2620,18,6959.97,3,1,1,311,Recent Buyers
+61,62,2491,12,14983.26,1,1,1,111,Dormant Customers
+62,63,2576,22,58295.0,3,1,3,313,Recent Buyers
+63,64,2500,20,9500.01,1,1,1,111,Dormant Customers
+64,65,2487,28,24973.33,1,1,1,111,Dormant Customers
+65,66,2487,14,31750.02,1,1,1,111,Dormant Customers
+66,67,2536,22,5316.63,3,1,1,311,Recent Buyers
+67,68,2485,6,47883.28,1,1,3,113,Big Spenders Gone Silent
+68,69,2483,6,47883.28,1,1,3,113,Big Spenders Gone Silent
+69,70,2711,24,9199.92,3,1,1,311,Recent Buyers
+70,71,2494,4,33050.0,1,1,1,111,Dormant Customers
+71,72,2556,30,15812.4,3,3,1,331,Frequent but low spending
+72,73,2499,16,16916.58,1,1,1,111,Dormant Customers
+73,74,2480,26,17430.0,1,1,1,111,Dormant Customers
+74,75,2662,14,6591.62,3,1,1,311,Recent Buyers
+75,76,2605,28,2879.95,3,1,1,311,Recent Buyers
+76,77,2577,20,3833.3,3,1,1,311,Recent Buyers
+77,78,2484,39,24383.22,1,3,1,131,At Risk Loyalists
+78,79,2484,34,40931.7,1,3,3,133,At Risk Loyalists
+79,80,2498,12,29816.69,1,1,1,111,Dormant Customers
+80,81,2499,22,47150.0,1,1,3,113,Big Spenders Gone Silent
+81,82,2504,14,15949.92,1,1,1,111,Dormant Customers
+82,83,2550,21,13895.8,3,1,1,311,Recent Buyers
+83,84,2837,2,190.0,3,1,1,311,Recent Buyers
+84,85,2487,6,26113.62,1,1,1,111,Dormant Customers
+85,86,2480,10,41750.0,1,1,3,113,Big Spenders Gone Silent
+86,87,2550,22,7443.26,3,1,1,311,Recent Buyers
+87,88,2654,30,13850.03,3,3,1,331,Frequent but low spending
+88,89,2483,20,16980.0,1,1,1,111,Dormant Customers
+89,90,2479,12,5387.0,1,1,1,111,Dormant Customers
+90,91,2514,26,25616.66,1,1,1,111,Dormant Customers
+91,92,2486,32,57254.05,1,3,3,133,At Risk Loyalists
+92,93,2483,65,12651.28,1,3,1,131,At Risk Loyalists
+93,94,2498,28,15946.54,1,1,1,111,Dormant Customers
+94,95,2480,6,35950.0,1,1,3,113,Big Spenders Gone Silent
+95,96,2497,20,11370.0,1,1,1,111,Dormant Customers
+96,97,2550,22,21266.63,3,1,1,311,Recent Buyers
+97,98,2527,26,10950.0,3,1,1,311,Recent Buyers
+98,99,2480,34,24996.54,1,3,1,131,At Risk Loyalists
+99,100,2584,24,2319.96,3,1,1,311,Recent Buyers
+100,101,2494,36,90783.72,1,3,3,133,At Risk Loyalists
+101,102,2480,28,31050.04,1,1,1,111,Dormant Customers
+102,103,2483,24,4276.67,1,1,1,111,Dormant Customers
+103,104,2844,2,1833.33,3,1,1,311,Recent Buyers
+104,105,2709,38,16300.0,3,3,1,331,Frequent but low spending
+105,106,2865,2,840.0,3,1,1,311,Recent Buyers
+106,107,2479,8,13049.94,1,1,1,111,Dormant Customers
+107,108,2499,8,38850.0,1,1,3,113,Big Spenders Gone Silent
+108,109,2640,28,2683.24,3,1,1,311,Recent Buyers
+109,110,2486,42,8750.0,1,3,1,131,At Risk Loyalists
+110,111,2851,4,3666.66,3,1,1,311,Recent Buyers
+111,112,2564,27,5464.14,3,1,1,311,Recent Buyers
+112,113,2480,28,59483.28,1,1,3,113,Big Spenders Gone Silent
+113,114,2837,2,670.83,3,1,1,311,Recent Buyers
+114,115,2501,30,21814.86,1,3,1,131,At Risk Loyalists
+115,116,2480,20,26330.01,1,1,1,111,Dormant Customers
+116,117,2738,20,5700.0,3,1,1,311,Recent Buyers
+117,118,2497,14,15949.92,1,1,1,111,Dormant Customers
+118,119,2494,20,3890.01,1,1,1,111,Dormant Customers
+119,120,2504,24,11866.68,1,1,1,111,Dormant Customers
+120,121,2822,4,1493.32,3,1,1,311,Recent Buyers
+121,122,2794,6,5700.0,3,1,1,311,Recent Buyers
+122,123,2501,12,7566.69,1,1,1,111,Dormant Customers
+123,124,2788,10,5225.0,3,1,1,311,Recent Buyers
+124,125,2504,6,12083.28,1,1,1,111,Dormant Customers
+125,126,2835,11,2224.12,3,1,1,311,Recent Buyers
+126,127,2504,26,10950.0,1,1,1,111,Dormant Customers
+127,128,2478,8,16285.05,1,1,1,111,Dormant Customers
+128,129,2492,30,13866.64,1,3,1,131,At Risk Loyalists
+129,130,2487,43,19926.52,1,3,1,131,At Risk Loyalists
+130,131,2479,26,10950.0,1,1,1,111,Dormant Customers
+131,132,2501,36,27837.5,1,3,1,131,At Risk Loyalists
+132,133,2499,26,21749.88,1,1,1,111,Dormant Customers
+133,134,2633,1,0.01,3,1,1,311,Recent Buyers
+134,135,2760,8,7600.0,3,1,1,311,Recent Buyers
+135,136,2491,24,10420.8,1,1,1,111,Dormant Customers
+136,137,2715,10,9104.15,3,1,1,311,Recent Buyers
+137,138,2504,14,15949.92,1,1,1,111,Dormant Customers
+138,139,2483,22,39316.64,1,1,3,113,Big Spenders Gone Silent
+139,140,2483,22,43416.56,1,1,3,113,Big Spenders Gone Silent
+140,141,2480,10,41750.0,1,1,3,113,Big Spenders Gone Silent
+141,142,2479,24,16656.67,1,1,1,111,Dormant Customers
+142,143,2511,30,15964.54,1,3,1,131,At Risk Loyalists
+143,144,2506,28,53890.0,1,1,3,113,Big Spenders Gone Silent
+144,145,2501,34,23382.75,1,3,1,131,At Risk Loyalists
+145,146,2506,32,20362.5,1,3,1,131,At Risk Loyalists
+146,147,2682,14,3354.19,3,1,1,311,Recent Buyers
+147,148,2487,14,15949.92,1,1,1,111,Dormant Customers
+148,149,2493,30,16623.2,1,3,1,131,At Risk Loyalists
+149,150,2697,12,4024.98,3,1,1,311,Recent Buyers
+150,151,2483,10,14016.6,1,1,1,111,Dormant Customers
+151,152,2485,10,14016.6,1,1,1,111,Dormant Customers
+152,153,2634,16,3833.28,3,1,1,311,Recent Buyers
+153,154,2480,4,22083.37,1,1,1,111,Dormant Customers
+154,155,2578,20,9000.0,3,1,1,311,Recent Buyers
+155,156,2534,24,5800.04,3,1,1,311,Recent Buyers
+156,157,2507,8,13049.94,1,1,1,111,Dormant Customers
+157,158,2480,16,23623.35,1,1,1,111,Dormant Customers
+158,159,2512,42,42108.18,1,3,3,133,At Risk Loyalists
+159,160,2738,14,10883.36,3,1,1,311,Recent Buyers
+160,161,2487,22,11950.0,1,1,1,111,Dormant Customers
+161,162,2501,12,14983.26,1,1,1,111,Dormant Customers
+162,163,2491,30,39304.13,1,3,3,133,At Risk Loyalists
+163,164,2835,4,6619.63,3,1,1,311,Recent Buyers
+164,165,2506,34,60499.95,1,3,3,133,At Risk Loyalists
+165,166,2487,34,101183.98,1,3,3,133,At Risk Loyalists
+166,167,2494,32,34816.78,1,3,3,133,At Risk Loyalists
+167,168,2630,44,10541.74,3,3,1,331,Frequent but low spending
+168,169,2631,16,3833.36,3,1,1,311,Recent Buyers
+169,170,2591,24,2874.84,3,1,1,311,Recent Buyers
+170,171,2505,22,25716.56,1,1,1,111,Dormant Customers
+171,172,2695,12,3450.0,3,1,1,311,Recent Buyers
+172,173,2479,12,44650.0,1,1,3,113,Big Spenders Gone Silent
+173,174,2494,14,1729.92,1,1,1,111,Dormant Customers
+174,175,2504,6,6116.7,1,1,1,111,Dormant Customers
+175,176,2521,26,17349.96,1,1,1,111,Dormant Customers
+176,177,2480,54,47816.5,1,3,3,133,At Risk Loyalists
+177,178,2479,2,20100.04,1,1,1,111,Dormant Customers
+178,179,2858,2,560.0,3,1,1,311,Recent Buyers
+179,180,2660,14,6708.31,3,1,1,311,Recent Buyers
+180,181,2491,4,22083.37,1,1,1,111,Dormant Customers
+181,182,2487,32,46848.37,1,3,3,133,At Risk Loyalists
+182,183,2737,10,2395.8,3,1,1,311,Recent Buyers
+183,184,2487,16,16916.58,1,1,1,111,Dormant Customers
+184,185,2501,4,44016.62,1,1,3,113,Big Spenders Gone Silent
+185,186,2508,28,22503.21,1,1,1,111,Dormant Customers
+186,187,2505,10,7083.36,1,1,1,111,Dormant Customers
+187,188,2505,26,15269.88,1,1,1,111,Dormant Customers
+188,189,2484,28,9391.64,1,1,1,111,Dormant Customers
+189,190,2507,56,38013.24,1,3,3,133,At Risk Loyalists
+190,191,2815,8,3799.96,3,1,1,311,Recent Buyers
+191,192,2504,6,46401.54,1,1,3,113,Big Spenders Gone Silent
+192,193,2507,28,67399.97,1,1,3,113,Big Spenders Gone Silent
+193,194,2501,28,47633.22,1,1,3,113,Big Spenders Gone Silent
+194,195,2480,34,88397.36,1,3,3,133,At Risk Loyalists
+195,196,2773,8,1916.64,3,1,1,311,Recent Buyers
+196,197,2823,4,580.0,3,1,1,311,Recent Buyers
+197,198,2696,12,4599.96,3,1,1,311,Recent Buyers
+198,199,2504,41,10411.34,1,3,1,131,At Risk Loyalists
+199,200,2788,6,1437.48,3,1,1,311,Recent Buyers
+200,201,2850,2,665.0,3,1,1,311,Recent Buyers
+201,202,2497,12,44650.0,1,1,3,113,Big Spenders Gone Silent
+202,203,2801,6,5599.98,3,1,1,311,Recent Buyers
+203,204,2491,10,14016.6,1,1,1,111,Dormant Customers
+204,205,2534,44,23443.26,3,3,1,331,Frequent but low spending
+205,206,2865,2,282.5,3,1,1,311,Recent Buyers
+206,207,2480,10,27883.36,1,1,1,111,Dormant Customers
+207,208,2570,55,65916.63,3,3,3,333,Best Customers
+208,209,2478,50,39553.32,1,3,3,133,At Risk Loyalists
+209,210,2493,10,41750.0,1,1,3,113,Big Spenders Gone Silent
+210,211,2730,19,7126.96,3,1,1,311,Recent Buyers
+211,212,2506,8,13049.94,1,1,1,111,Dormant Customers
+212,213,2480,16,16916.58,1,1,1,111,Dormant Customers
+213,214,2480,24,10466.67,1,1,1,111,Dormant Customers
+214,215,2501,28,5736.54,1,1,1,111,Dormant Customers
+215,216,2485,33,56728.74,1,3,3,133,At Risk Loyalists
+216,217,2843,2,855.0,3,1,1,311,Recent Buyers
+217,218,2480,24,22846.67,1,1,1,111,Dormant Customers
+218,219,2494,26,15269.88,1,1,1,111,Dormant Customers
+219,220,2843,4,246.49,3,1,1,311,Recent Buyers
+220,221,2499,22,9983.34,1,1,1,111,Dormant Customers
+221,222,2655,14,6708.31,3,1,1,311,Recent Buyers
+222,223,2620,18,4349.97,3,1,1,311,Recent Buyers
+223,224,2480,36,109067.26,1,3,3,133,At Risk Loyalists
+224,225,2499,18,32070.0,1,1,1,111,Dormant Customers
+225,226,2483,34,23164.7,1,3,1,131,At Risk Loyalists
+226,227,2497,28,16732.48,1,1,1,111,Dormant Customers
+227,228,2490,26,51249.85,1,1,3,113,Big Spenders Gone Silent
+228,229,2682,26,9360.0,3,1,1,311,Recent Buyers
+229,230,2816,4,360.0,3,1,1,311,Recent Buyers
+230,231,2485,76,11146.78,1,3,1,131,At Risk Loyalists
+231,232,2479,10,14016.6,1,1,1,111,Dormant Customers
+232,233,2563,23,2629.99,3,1,1,311,Recent Buyers
+233,234,2480,18,14336.68,1,1,1,111,Dormant Customers
+234,235,2478,8,25950.03,1,1,1,111,Dormant Customers
+235,236,2618,18,2808.9,3,1,1,311,Recent Buyers
+236,237,2484,42,17750.0,1,3,1,131,At Risk Loyalists
+237,238,2851,2,188.33,3,1,1,311,Recent Buyers
+238,239,2486,30,64487.44,1,3,3,133,At Risk Loyalists
+239,240,2494,4,21881.7,1,1,1,111,Dormant Customers
+240,241,2498,30,39841.41,1,3,3,133,At Risk Loyalists
+241,242,2485,6,6116.7,1,1,1,111,Dormant Customers
+242,243,2487,18,35616.68,1,1,3,113,Big Spenders Gone Silent
+243,244,2556,44,10633.26,3,3,1,331,Frequent but low spending
+244,245,2724,22,5270.76,3,1,1,311,Recent Buyers
+245,246,2484,4,33050.0,1,1,1,111,Dormant Customers
+246,247,2486,22,9983.34,1,1,1,111,Dormant Customers
+247,248,2479,31,1630.0,1,3,1,131,At Risk Loyalists
+248,249,2494,4,44016.62,1,1,3,113,Big Spenders Gone Silent
+249,250,2522,26,4323.0,1,1,1,111,Dormant Customers
+250,251,2500,20,9500.01,1,1,1,111,Dormant Customers
+251,252,2498,10,67933.36,1,1,3,113,Big Spenders Gone Silent
+252,253,2851,2,2312.5,3,1,1,311,Recent Buyers
+253,254,2484,44,86133.3,1,3,3,133,At Risk Loyalists
+254,255,2529,26,53899.8,3,1,3,313,Recent Buyers
+255,256,2501,12,44650.0,1,1,3,113,Big Spenders Gone Silent
+256,257,2654,52,12834.34,3,3,1,331,Frequent but low spending
+257,258,2665,48,29899.92,3,3,1,331,Frequent but low spending
+258,259,2590,20,12460.0,3,1,1,311,Recent Buyers
+259,260,2480,30,8726.66,1,3,1,131,At Risk Loyalists
+260,261,2487,16,8533.35,1,1,1,111,Dormant Customers
+261,262,2492,18,17883.24,1,1,1,111,Dormant Customers
+262,263,2585,24,5749.92,3,1,1,311,Recent Buyers
+263,264,2821,4,3800.0,3,1,1,311,Recent Buyers
+264,265,2486,20,22590.0,1,1,1,111,Dormant Customers
+265,266,2849,4,570.0,3,1,1,311,Recent Buyers
+266,267,2858,2,282.5,3,1,1,311,Recent Buyers
+267,268,2494,24,13605.72,1,1,1,111,Dormant Customers
+268,269,2781,6,3135.0,3,1,1,311,Recent Buyers
+269,270,2508,26,21749.88,1,1,1,111,Dormant Customers
+270,271,2840,10,1400.0,3,1,1,311,Recent Buyers
+271,272,2483,6,24016.7,1,1,1,111,Dormant Customers
+272,273,2487,6,24016.7,1,1,1,111,Dormant Customers
+273,274,2491,18,34150.04,1,1,3,113,Big Spenders Gone Silent
+274,275,2541,26,77513.4,3,1,3,313,Recent Buyers
+275,276,2487,20,28200.0,1,1,1,111,Dormant Customers
+276,277,2478,32,97646.6,1,3,3,133,At Risk Loyalists
+277,278,2728,38,36056.89,3,3,3,333,Best Customers
+278,279,2520,41,3883.28,1,3,1,131,At Risk Loyalists
+279,280,2526,42,20683.16,1,3,1,131,At Risk Loyalists
+280,281,2500,38,9481.08,1,3,1,131,At Risk Loyalists
+281,282,2491,30,16035.37,1,3,1,131,At Risk Loyalists
+282,283,2478,68,98674.24,1,3,3,133,At Risk Loyalists
+283,284,2487,26,25374.99,1,1,1,111,Dormant Customers
+284,285,2479,34,47903.2,1,3,3,133,At Risk Loyalists
+285,286,2491,34,50153.54,1,3,3,133,At Risk Loyalists
+286,287,2487,20,41289.9,1,1,3,113,Big Spenders Gone Silent
+287,288,2486,8,38850.0,1,1,3,113,Big Spenders Gone Silent
+288,289,2490,70,30356.4,1,3,1,131,At Risk Loyalists
+289,290,2485,32,62530.05,1,3,3,133,At Risk Loyalists
+290,291,2654,30,8875.01,3,3,1,331,Frequent but low spending
+291,292,2491,32,50647.8,1,3,3,133,At Risk Loyalists
+292,293,2485,28,11433.33,1,1,1,111,Dormant Customers
+293,294,2479,28,19791.54,1,1,1,111,Dormant Customers
+294,295,2795,6,2280.0,3,1,1,311,Recent Buyers
+295,296,2485,8,25950.03,1,1,1,111,Dormant Customers
+296,297,2480,34,53675.0,1,3,3,133,At Risk Loyalists
+297,298,2501,4,108658.32,1,1,3,113,Big Spenders Gone Silent
+298,299,2478,28,16050.04,1,1,1,111,Dormant Customers
+299,300,2830,4,1120.0,3,1,1,311,Recent Buyers
+300,301,2487,30,73683.33,1,3,3,133,At Risk Loyalists
+301,302,2480,8,38850.0,1,1,3,113,Big Spenders Gone Silent
+302,303,2506,26,16636.68,1,1,1,111,Dormant Customers
+303,304,2499,22,23750.0,1,1,1,111,Dormant Customers
+304,305,2498,20,18849.9,1,1,1,111,Dormant Customers
+305,306,2486,20,9500.01,1,1,1,111,Dormant Customers
+306,307,2829,4,3666.66,3,1,1,311,Recent Buyers
+307,308,2499,34,68459.21,1,3,3,133,At Risk Loyalists
+308,309,2478,30,41733.35,1,3,3,133,At Risk Loyalists
+309,310,2494,8,38850.0,1,1,3,113,Big Spenders Gone Silent
+310,311,2662,22,5270.87,3,1,1,311,Recent Buyers
+311,312,2493,8,6600.03,1,1,1,111,Dormant Customers
+312,313,2485,34,12883.32,1,3,1,131,At Risk Loyalists
+313,314,2809,4,3800.0,3,1,1,311,Recent Buyers
+314,315,2494,20,9500.01,1,1,1,111,Dormant Customers
+315,316,2484,45,18027.48,1,3,1,131,At Risk Loyalists
+316,317,2483,24,29036.67,1,1,1,111,Dormant Customers
+317,318,2478,24,14593.22,1,1,1,111,Dormant Customers
+318,319,2485,10,14016.6,1,1,1,111,Dormant Customers
+319,320,2578,21,4833.3,3,1,1,311,Recent Buyers
+320,321,2499,16,8445.85,1,1,1,111,Dormant Customers
+321,322,2494,30,27524.94,1,3,1,131,At Risk Loyalists
+322,323,2487,14,31750.02,1,1,1,111,Dormant Customers
+323,324,2549,30,34500.0,3,3,3,333,Best Customers
+324,325,2504,28,24140.01,1,1,1,111,Dormant Customers
+325,326,2506,26,74534.64,1,1,3,113,Big Spenders Gone Silent
+326,327,2532,38,9750.0,3,3,1,331,Frequent but low spending
+327,328,2480,42,24895.77,1,3,1,131,At Risk Loyalists
+328,329,2504,6,6116.7,1,1,1,111,Dormant Customers
+329,330,2808,8,1916.64,3,1,1,311,Recent Buyers
+330,331,2501,52,63849.97,1,3,3,133,At Risk Loyalists
+331,332,2480,38,18342.34,1,3,1,131,At Risk Loyalists
+332,333,2491,18,17883.24,1,1,1,111,Dormant Customers
+333,334,2494,26,6125.8,1,1,1,111,Dormant Customers
+334,335,2603,2,4376.45,3,1,1,311,Recent Buyers
+335,336,2549,31,15299.99,3,3,1,331,Frequent but low spending
+336,337,2484,30,60529.12,1,3,3,133,At Risk Loyalists
+337,338,2497,48,73594.38,1,3,3,133,At Risk Loyalists
+338,339,2504,28,35612.46,1,1,3,113,Big Spenders Gone Silent
+339,340,2574,20,19839.07,3,1,1,311,Recent Buyers
+340,341,2501,12,44650.0,1,1,3,113,Big Spenders Gone Silent
+341,342,2483,27,31649.94,1,1,1,111,Dormant Customers
+342,343,2826,14,3920.0,3,1,1,311,Recent Buyers
+343,344,2478,45,27033.2,1,3,1,131,At Risk Loyalists
+344,345,2480,24,57952.89,1,1,3,113,Big Spenders Gone Silent
+345,346,2487,12,44650.0,1,1,3,113,Big Spenders Gone Silent
+346,347,2490,28,52376.65,1,1,3,113,Big Spenders Gone Silent
+347,348,2737,10,9583.3,3,1,1,311,Recent Buyers
+348,349,2480,26,9491.65,1,1,1,111,Dormant Customers
+349,350,2504,26,58899.96,1,1,3,113,Big Spenders Gone Silent
+350,351,2486,8,25950.03,1,1,1,111,Dormant Customers
+351,352,2599,18,1724.94,3,1,1,311,Recent Buyers
+352,353,2484,26,10899.96,1,1,1,111,Dormant Customers
+353,354,2479,10,7083.36,1,1,1,111,Dormant Customers
+354,355,2479,51,12192.06,1,3,1,131,At Risk Loyalists
+355,356,2494,26,77524.92,1,1,3,113,Big Spenders Gone Silent
+356,357,2639,16,4600.0,3,1,1,311,Recent Buyers
+357,358,2492,6,47883.28,1,1,3,113,Big Spenders Gone Silent
+358,359,2507,30,23243.2,1,3,1,131,At Risk Loyalists
+359,360,2486,24,41416.67,1,1,3,113,Big Spenders Gone Silent
+360,361,2487,30,15635.7,1,3,1,131,At Risk Loyalists
+361,362,2851,2,285.0,3,1,1,311,Recent Buyers
+362,363,2772,20,4368.07,3,1,1,311,Recent Buyers
+363,364,2723,16,2991.59,3,1,1,311,Recent Buyers
+364,365,2486,38,78291.11,1,3,3,133,At Risk Loyalists
+365,366,2487,40,27383.18,1,3,1,131,At Risk Loyalists
+366,367,2478,49,7116.69,1,3,1,131,At Risk Loyalists
+367,368,2480,30,11916.66,1,3,1,131,At Risk Loyalists
+368,369,2549,29,18976.52,3,3,1,331,Frequent but low spending
+369,370,2528,14,45369.69,3,1,3,313,Recent Buyers
+370,371,2646,47,14191.08,3,3,1,331,Frequent but low spending
+371,372,2506,12,14983.26,1,1,1,111,Dormant Customers
+372,373,2528,13,20353.43,3,1,1,311,Recent Buyers
+373,374,2662,14,13416.62,3,1,1,311,Recent Buyers
+374,375,2498,10,9639.6,1,1,1,111,Dormant Customers
+375,376,2501,24,20883.22,1,1,1,111,Dormant Customers
+376,377,2490,18,17883.24,1,1,1,111,Dormant Customers
+377,378,2494,22,18609.92,1,1,1,111,Dormant Customers
+378,379,2704,12,2874.96,3,1,1,311,Recent Buyers
+379,380,2494,24,20783.22,1,1,1,111,Dormant Customers
+380,381,2494,28,32636.68,1,1,1,111,Dormant Customers
+381,382,2485,22,21783.34,1,1,1,111,Dormant Customers
+382,383,2480,30,58183.3,1,3,3,133,At Risk Loyalists
+383,384,2802,6,1169.97,3,1,1,311,Recent Buyers
+384,385,2478,32,91233.28,1,3,3,133,At Risk Loyalists
+385,386,2487,22,9983.34,1,1,1,111,Dormant Customers
+386,387,2533,1,0.01,3,1,1,311,Recent Buyers
+387,388,2480,43,73950.0,1,3,3,133,At Risk Loyalists
+388,389,2514,28,53153.33,1,1,3,113,Big Spenders Gone Silent
+389,390,2606,24,19554.49,3,1,1,311,Recent Buyers
+390,391,2651,16,14400.0,3,1,1,311,Recent Buyers
+391,392,2480,12,10533.26,1,1,1,111,Dormant Customers
+392,393,2506,22,9983.34,1,1,1,111,Dormant Customers
+393,394,2814,8,1916.64,3,1,1,311,Recent Buyers
+394,395,2480,8,51749.94,1,1,3,113,Big Spenders Gone Silent
+395,396,2548,22,15400.0,3,1,1,311,Recent Buyers
+396,397,2716,20,4233.28,3,1,1,311,Recent Buyers
+397,398,2522,34,12883.32,1,3,1,131,At Risk Loyalists
+398,399,2501,36,9866.61,1,3,1,131,At Risk Loyalists
+399,400,2479,16,15240.0,1,1,1,111,Dormant Customers
+400,401,2756,5,40158.09,3,1,3,313,Recent Buyers
+401,402,2491,22,39483.34,1,1,3,113,Big Spenders Gone Silent
+402,403,2491,6,74999.94,1,1,3,113,Big Spenders Gone Silent
+403,404,2504,8,13049.94,1,1,1,111,Dormant Customers
+404,405,2494,6,24016.7,1,1,1,111,Dormant Customers
+405,406,2836,4,1324.82,3,1,1,311,Recent Buyers
+406,407,2662,31,16815.7,3,3,1,331,Frequent but low spending
+407,408,2501,22,31316.65,1,1,1,111,Dormant Customers
+408,409,2504,30,7623.34,1,3,1,131,At Risk Loyalists
+409,410,2478,2,30100.0,1,1,1,111,Dormant Customers
+410,411,2494,32,49231.62,1,3,3,133,At Risk Loyalists
+411,412,2654,26,19933.29,3,1,1,311,Recent Buyers
+412,413,2478,105,97767.2,1,3,3,133,At Risk Loyalists
+413,414,2519,26,41150.04,1,1,3,113,Big Spenders Gone Silent
+414,415,2564,31,6941.0,3,3,1,331,Frequent but low spending
+415,416,2515,26,43350.0,1,1,3,113,Big Spenders Gone Silent
+416,417,2487,32,58950.0,1,3,3,133,At Risk Loyalists
+417,418,2637,22,19927.64,3,1,1,311,Recent Buyers
+418,419,2487,12,7566.69,1,1,1,111,Dormant Customers
+419,420,2492,10,41750.0,1,1,3,113,Big Spenders Gone Silent
+420,421,2485,6,12083.28,1,1,1,111,Dormant Customers
+421,422,2793,6,1140.0,3,1,1,311,Recent Buyers
+422,423,2499,36,13366.65,1,3,1,131,At Risk Loyalists
+423,424,2485,8,15705.01,1,1,1,111,Dormant Customers
+424,425,2487,14,8050.02,1,1,1,111,Dormant Customers
+425,426,2507,12,26995.36,1,1,1,111,Dormant Customers
+426,427,2487,30,7175.0,1,3,1,131,At Risk Loyalists
+427,428,2485,26,10950.0,1,1,1,111,Dormant Customers
+428,429,2504,28,37306.65,1,1,3,113,Big Spenders Gone Silent
+429,430,2546,26,24916.58,3,1,1,311,Recent Buyers
+430,431,2484,30,32733.33,1,3,1,131,At Risk Loyalists
+431,432,2478,22,21783.34,1,1,1,111,Dormant Customers
+432,433,2487,16,8533.35,1,1,1,111,Dormant Customers
+433,434,2505,38,30143.3,1,3,1,131,At Risk Loyalists
+434,435,2504,14,7723.5,1,1,1,111,Dormant Customers
+435,436,2842,2,1950.0,3,1,1,311,Recent Buyers
+436,437,2823,4,373.32,3,1,1,311,Recent Buyers
+437,438,2504,22,19816.56,1,1,1,111,Dormant Customers
+438,439,2823,12,7020.0,3,1,1,311,Recent Buyers
+439,440,2499,8,6600.03,1,1,1,111,Dormant Customers
+440,441,2851,2,1883.33,3,1,1,311,Recent Buyers
+441,442,2499,16,16916.58,1,1,1,111,Dormant Customers
+442,443,2487,4,44016.62,1,1,3,113,Big Spenders Gone Silent
+443,444,2507,26,19590.0,1,1,1,111,Dormant Customers
+444,445,2487,32,58580.0,1,3,3,133,At Risk Loyalists
+445,446,2485,26,51750.0,1,1,3,113,Big Spenders Gone Silent
+446,447,2767,8,3420.0,3,1,1,311,Recent Buyers
+447,448,2480,20,2019.9,1,1,1,111,Dormant Customers
+448,449,2492,24,10466.67,1,1,1,111,Dormant Customers
+449,450,2795,6,1437.48,3,1,1,311,Recent Buyers
+450,451,2486,28,13692.42,1,1,1,111,Dormant Customers
+451,452,2484,24,10466.67,1,1,1,111,Dormant Customers
+452,453,2480,24,33163.22,1,1,1,111,Dormant Customers
+453,454,2501,4,22083.37,1,1,1,111,Dormant Customers
+454,455,2479,30,7010.0,1,3,1,131,At Risk Loyalists
+455,456,2479,9,38887.51,1,1,3,113,Big Spenders Gone Silent
+456,457,2483,30,47366.69,1,3,3,133,At Risk Loyalists
+457,458,2548,36,8918.94,3,3,1,331,Frequent but low spending
+458,459,2480,34,23939.39,1,3,1,131,At Risk Loyalists
+459,460,2494,26,12908.32,1,1,1,111,Dormant Customers
+460,461,2515,26,43350.0,1,1,3,113,Big Spenders Gone Silent
+461,462,2499,17,8533.35,1,1,1,111,Dormant Customers
+462,463,2494,67,27744.98,1,3,1,131,At Risk Loyalists
+463,464,2570,28,13533.24,3,1,1,311,Recent Buyers
+464,465,2848,10,1866.65,3,1,1,311,Recent Buyers
+465,466,2625,16,15066.64,3,1,1,311,Recent Buyers
+466,467,2483,30,31825.0,1,3,1,131,At Risk Loyalists
+467,468,2491,25,69447.56,1,1,3,113,Big Spenders Gone Silent
+468,469,2490,33,56025.87,1,3,3,133,At Risk Loyalists
+469,470,2480,46,14649.98,1,3,1,131,At Risk Loyalists
+470,471,2480,6,11881.62,1,1,1,111,Dormant Customers
+471,472,2497,30,29866.66,1,3,1,131,At Risk Loyalists
+472,473,2494,30,33033.37,1,3,1,131,At Risk Loyalists
+473,474,2487,14,15949.92,1,1,1,111,Dormant Customers
+474,475,2480,20,9500.01,1,1,1,111,Dormant Customers
+475,476,2504,20,26330.01,1,1,1,111,Dormant Customers
+476,477,2668,14,3354.12,3,1,1,311,Recent Buyers
+477,478,2504,4,11116.62,1,1,1,111,Dormant Customers
+478,479,2483,24,4093.3,1,1,1,111,Dormant Customers
+479,480,2744,10,6875.0,3,1,1,311,Recent Buyers
+480,481,2487,8,37942.5,1,1,3,113,Big Spenders Gone Silent
+481,482,2487,16,46050.0,1,1,3,113,Big Spenders Gone Silent
+482,483,2837,2,193.33,3,1,1,311,Recent Buyers
+483,484,2497,30,7943.25,1,3,1,131,At Risk Loyalists
+484,485,2494,8,13049.94,1,1,1,111,Dormant Customers
+485,486,2823,4,1330.0,3,1,1,311,Recent Buyers
+486,487,2480,30,19816.56,1,3,1,131,At Risk Loyalists
+487,488,2498,8,12133.35,1,1,1,111,Dormant Customers
+488,489,2504,30,57225.48,1,3,3,133,At Risk Loyalists
+489,490,2515,25,14650.02,1,1,1,111,Dormant Customers
+490,491,2501,8,13049.94,1,1,1,111,Dormant Customers
+491,492,2490,12,44650.0,1,1,3,113,Big Spenders Gone Silent
+492,493,2499,10,14016.6,1,1,1,111,Dormant Customers
+493,494,2578,20,1933.3,3,1,1,311,Recent Buyers
+494,495,2484,28,45216.67,1,1,3,113,Big Spenders Gone Silent
+495,496,2506,12,29816.69,1,1,1,111,Dormant Customers
+496,497,2500,10,14016.6,1,1,1,111,Dormant Customers
+497,498,2729,10,9583.3,3,1,1,311,Recent Buyers
+498,499,2504,24,24910.0,1,1,1,111,Dormant Customers
+499,500,2480,4,5633.37,1,1,1,111,Dormant Customers
+500,501,2490,30,64750.0,1,3,3,133,At Risk Loyalists
+501,502,2585,20,3325.0,3,1,1,311,Recent Buyers
+502,503,2487,20,3890.01,1,1,1,111,Dormant Customers
+503,504,2655,14,4025.0,3,1,1,311,Recent Buyers
+504,505,2494,22,11950.0,1,1,1,111,Dormant Customers
+505,506,2528,12,70530.0,3,1,3,313,Recent Buyers
+506,507,2568,20,4833.3,3,1,1,311,Recent Buyers
+507,508,2620,18,1739.97,3,1,1,311,Recent Buyers
+508,509,2501,28,39510.0,1,1,3,113,Big Spenders Gone Silent
+509,510,2501,4,22083.37,1,1,1,111,Dormant Customers
+510,511,2487,34,12925.02,1,3,1,131,At Risk Loyalists
+511,512,2483,12,44650.0,1,1,3,113,Big Spenders Gone Silent
+512,513,2651,16,15333.28,3,1,1,311,Recent Buyers
+513,514,2619,28,6708.24,3,1,1,311,Recent Buyers
+514,515,2485,24,24800.0,1,1,1,111,Dormant Customers
+515,516,2480,30,14097.9,1,3,1,131,At Risk Loyalists
+516,517,2504,26,64683.36,1,1,3,113,Big Spenders Gone Silent
+517,518,2494,26,43149.96,1,1,3,113,Big Spenders Gone Silent
+518,519,2497,26,4470.0,1,1,1,111,Dormant Customers
+519,520,2491,24,41416.67,1,1,3,113,Big Spenders Gone Silent
+520,521,2480,30,60541.58,1,3,3,133,At Risk Loyalists
+521,522,2520,55,35184.99,1,3,3,133,At Risk Loyalists
+522,523,2491,46,15783.3,1,3,1,131,At Risk Loyalists
+523,524,2483,34,28983.28,1,3,1,131,At Risk Loyalists
+524,525,2486,38,18342.34,1,3,1,131,At Risk Loyalists
+525,526,2478,24,22846.67,1,1,1,111,Dormant Customers
+526,527,2487,30,31441.64,1,3,1,131,At Risk Loyalists
+527,528,2480,20,9500.01,1,1,1,111,Dormant Customers
+528,529,2766,6,1437.48,3,1,1,311,Recent Buyers
+529,530,2697,4,102.02,3,1,1,311,Recent Buyers
+530,531,2749,33,2818.99,3,3,1,331,Frequent but low spending
+531,532,2837,2,195.0,3,1,1,311,Recent Buyers
+532,533,2485,32,29000.0,1,3,1,131,At Risk Loyalists
+533,534,2479,42,15303.29,1,3,1,131,At Risk Loyalists
+534,535,2490,10,14016.6,1,1,1,111,Dormant Customers
+535,536,2487,34,40129.61,1,3,3,133,At Risk Loyalists
+536,537,2515,38,46474.92,1,3,3,133,At Risk Loyalists
+537,538,2483,39,8480.38,1,3,1,131,At Risk Loyalists
+538,539,2763,21,1400.0,3,1,1,311,Recent Buyers
+539,540,2485,32,17016.66,1,3,1,131,At Risk Loyalists
+540,541,2785,2,340.86,3,1,1,311,Recent Buyers
+541,542,2479,38,34728.84,1,3,3,133,At Risk Loyalists
+542,543,2507,26,10950.0,1,1,1,111,Dormant Customers
+543,544,2521,27,10883.34,1,1,1,111,Dormant Customers
+544,545,2487,25,7220.0,1,1,1,111,Dormant Customers
+545,546,2494,30,22899.96,1,3,1,131,At Risk Loyalists
+546,547,2493,30,18345.69,1,3,1,131,At Risk Loyalists
+547,548,2480,12,14983.26,1,1,1,111,Dormant Customers
+548,549,2494,20,37399.98,1,1,3,113,Big Spenders Gone Silent
+549,550,2498,4,54695.87,1,1,3,113,Big Spenders Gone Silent
+550,551,2760,8,2280.0,3,1,1,311,Recent Buyers
+551,552,2498,28,44966.63,1,1,3,113,Big Spenders Gone Silent
+552,553,2849,10,1866.65,3,1,1,311,Recent Buyers
+553,554,2498,28,16391.62,1,1,1,111,Dormant Customers
+554,555,2491,36,5436.65,1,3,1,131,At Risk Loyalists
+555,556,2535,24,18449.96,3,1,1,311,Recent Buyers
+556,557,2480,38,90109.74,1,3,3,133,At Risk Loyalists
+557,558,2500,8,13049.94,1,1,1,111,Dormant Customers
+558,559,2550,22,8222.5,3,1,1,311,Recent Buyers
+559,560,2499,16,50450.0,1,1,3,113,Big Spenders Gone Silent
+560,561,2662,14,13416.62,3,1,1,311,Recent Buyers
+561,562,2498,30,64833.37,1,3,3,133,At Risk Loyalists
+562,563,2498,26,125786.72,1,1,3,113,Big Spenders Gone Silent
+563,564,2493,8,25950.03,1,1,1,111,Dormant Customers
+564,565,2802,6,2239.98,3,1,1,311,Recent Buyers
+565,566,2556,28,6766.62,3,1,1,311,Recent Buyers
+566,567,2499,24,41416.67,1,1,3,113,Big Spenders Gone Silent
+567,568,2480,8,38850.0,1,1,3,113,Big Spenders Gone Silent
+568,569,2479,75,29763.94,1,3,1,131,At Risk Loyalists
+569,570,2669,14,4818.31,3,1,1,311,Recent Buyers
+570,571,2515,66,20616.6,1,3,1,131,At Risk Loyalists
+571,572,2788,6,1437.48,3,1,1,311,Recent Buyers
+572,573,2498,26,18482.12,1,1,1,111,Dormant Customers
+573,574,2492,30,20724.9,1,3,1,131,At Risk Loyalists
+574,575,2487,4,22083.37,1,1,1,111,Dormant Customers
+575,576,2478,8,13049.94,1,1,1,111,Dormant Customers
+576,577,2749,22,17003.73,3,1,1,311,Recent Buyers
+577,578,2479,22,13916.56,1,1,1,111,Dormant Customers
+578,579,2501,8,13049.94,1,1,1,111,Dormant Customers
+579,580,2486,22,21783.34,1,1,1,111,Dormant Customers
+580,581,2577,24,8119.92,3,1,1,311,Recent Buyers
+581,582,2487,32,21374.96,1,3,1,131,At Risk Loyalists
+582,583,2501,24,14529.09,1,1,1,111,Dormant Customers
+583,584,2494,24,4276.67,1,1,1,111,Dormant Customers
+584,585,2486,28,13585.0,1,1,1,111,Dormant Customers
+585,586,2487,28,15173.22,1,1,1,111,Dormant Customers
+586,587,2564,20,3399.99,3,1,1,311,Recent Buyers
+587,588,2500,16,8533.35,1,1,1,111,Dormant Customers
+588,589,2519,39,54949.98,1,3,3,133,At Risk Loyalists
+589,590,2766,8,1916.64,3,1,1,311,Recent Buyers
+590,591,2478,78,147717.5,1,3,3,133,At Risk Loyalists
+591,592,2494,34,83356.62,1,3,3,133,At Risk Loyalists
+592,593,2662,22,5270.76,3,1,1,311,Recent Buyers
+593,594,2485,10,14016.6,1,1,1,111,Dormant Customers
+594,595,2486,20,2019.9,1,1,1,111,Dormant Customers
+595,596,2480,10,41750.0,1,1,3,113,Big Spenders Gone Silent
+596,597,2494,8,13049.94,1,1,1,111,Dormant Customers
+597,598,2480,30,20266.65,1,3,1,131,At Risk Loyalists
+598,599,2500,8,13049.94,1,1,1,111,Dormant Customers
+599,600,2497,4,44016.62,1,1,3,113,Big Spenders Gone Silent
+600,601,2711,12,2874.96,3,1,1,311,Recent Buyers
+601,602,2823,6,564.99,3,1,1,311,Recent Buyers
+602,603,2724,10,2395.8,3,1,1,311,Recent Buyers
+603,604,2486,26,23910.0,1,1,1,111,Dormant Customers
+604,605,2497,30,78460.0,1,3,3,133,At Risk Loyalists
+605,606,2514,41,35851.59,1,3,3,133,At Risk Loyalists
+606,607,2505,18,26750.0,1,1,1,111,Dormant Customers
+607,608,2483,30,13967.48,1,3,1,131,At Risk Loyalists
+608,609,2844,2,653.33,3,1,1,311,Recent Buyers
+609,610,2786,2,7916.66,3,1,1,311,Recent Buyers
+610,611,2497,14,1729.92,1,1,1,111,Dormant Customers
+611,612,2613,18,30187.44,3,1,1,311,Recent Buyers
+612,613,2480,11,24606.7,1,1,1,111,Dormant Customers
+613,614,2483,18,28150.02,1,1,1,111,Dormant Customers
+614,615,2816,4,2950.0,3,1,1,311,Recent Buyers
+615,616,2501,4,54333.4,1,1,3,113,Big Spenders Gone Silent
+616,617,2478,29,1798.49,1,3,1,131,At Risk Loyalists
+617,618,2479,2,40099.96,1,1,3,113,Big Spenders Gone Silent
+618,619,2480,12,7566.69,1,1,1,111,Dormant Customers
+619,620,2490,10,9163.36,1,1,1,111,Dormant Customers
+620,621,2486,36,2793.18,1,3,1,131,At Risk Loyalists
+621,622,2522,28,32344.74,1,1,1,111,Dormant Customers
+622,623,2487,34,200876.24,1,3,3,133,At Risk Loyalists
+623,624,2490,30,33336.57,1,3,1,131,At Risk Loyalists
+624,625,2484,4,33050.0,1,1,1,111,Dormant Customers
+625,626,2851,2,466.66,3,1,1,311,Recent Buyers
+626,627,2487,10,27883.36,1,1,1,111,Dormant Customers
+627,628,2504,30,72246.5,1,3,3,133,At Risk Loyalists
+628,629,2499,16,33683.35,1,1,3,113,Big Spenders Gone Silent
+629,630,2479,10,7083.36,1,1,1,111,Dormant Customers
+630,631,2480,20,15110.01,1,1,1,111,Dormant Customers
+631,632,2480,18,12516.6,1,1,1,111,Dormant Customers
+632,633,2634,16,8140.0,3,1,1,311,Recent Buyers
+633,634,2625,43,9742.54,3,3,1,331,Frequent but low spending
+634,635,2494,16,16916.58,1,1,1,111,Dormant Customers
+635,636,2505,10,41750.0,1,1,3,113,Big Spenders Gone Silent
+636,637,2501,8,25950.03,1,1,1,111,Dormant Customers
+637,638,2582,24,4599.96,3,1,1,311,Recent Buyers
+638,639,2490,14,24789.96,1,1,1,111,Dormant Customers
+639,640,2494,10,27883.36,1,1,1,111,Dormant Customers
+640,641,2491,16,44249.71,1,1,3,113,Big Spenders Gone Silent
+641,642,2499,28,17883.24,1,1,1,111,Dormant Customers
+642,643,2507,24,32696.59,1,1,1,111,Dormant Customers
+643,644,2836,3,3362.02,3,1,1,311,Recent Buyers
+644,645,2487,8,13049.94,1,1,1,111,Dormant Customers
+645,646,2500,30,9016.66,1,3,1,131,At Risk Loyalists
+646,647,2487,10,7083.36,1,1,1,111,Dormant Customers
+647,648,2483,28,17793.33,1,1,1,111,Dormant Customers
+648,649,2487,34,85953.39,1,3,3,133,At Risk Loyalists
+649,650,2494,30,16570.87,1,3,1,131,At Risk Loyalists
+650,651,2490,12,7566.69,1,1,1,111,Dormant Customers
+651,652,2487,4,22083.37,1,1,1,111,Dormant Customers
+652,653,2543,22,1327.0,3,1,1,311,Recent Buyers
+653,654,2520,34,13299.17,1,3,1,131,At Risk Loyalists
+654,655,2494,18,17883.24,1,1,1,111,Dormant Customers
+655,656,2507,20,28200.0,1,1,1,111,Dormant Customers
+656,657,2837,2,950.0,3,1,1,311,Recent Buyers
+657,658,2497,30,16917.47,1,3,1,131,At Risk Loyalists
+658,659,2610,5,4383.36,3,1,1,311,Recent Buyers
+659,660,2480,4,5633.37,1,1,1,111,Dormant Customers
+660,661,2484,28,19783.24,1,1,1,111,Dormant Customers
+661,662,2808,10,11183.41,3,1,1,311,Recent Buyers
+662,663,2501,8,6600.03,1,1,1,111,Dormant Customers
+663,664,2725,22,9240.0,3,1,1,311,Recent Buyers
+664,665,2483,28,17330.07,1,1,1,111,Dormant Customers
+665,666,2487,26,29599.98,1,1,1,111,Dormant Customers
+666,667,2487,29,91293.28,1,3,3,133,At Risk Loyalists
+667,668,2505,22,9900.04,1,1,1,111,Dormant Customers
+668,669,2506,12,26850.0,1,1,1,111,Dormant Customers
+669,670,2480,24,4276.67,1,1,1,111,Dormant Customers
+670,671,2521,26,10950.0,1,1,1,111,Dormant Customers
+671,672,2487,8,38850.0,1,1,3,113,Big Spenders Gone Silent
+672,673,2744,7,11341.89,3,1,1,311,Recent Buyers
+673,674,2506,28,29486.54,1,1,1,111,Dormant Customers
+674,675,2483,4,11116.62,1,1,1,111,Dormant Customers
+675,676,2487,20,11370.0,1,1,1,111,Dormant Customers
+676,677,2794,6,1695.0,3,1,1,311,Recent Buyers
+677,678,2494,48,25143.31,1,3,1,131,At Risk Loyalists
+678,679,2479,30,9359.88,1,3,1,131,At Risk Loyalists
+679,680,2504,14,9630.0,1,1,1,111,Dormant Customers
+680,681,2807,20,4708.3,3,1,1,311,Recent Buyers
+681,682,2494,28,16916.58,1,1,1,111,Dormant Customers
+682,683,2501,28,15156.54,1,1,1,111,Dormant Customers
+683,684,2484,12,29816.69,1,1,1,111,Dormant Customers
+684,685,2567,50,14954.68,3,3,1,331,Frequent but low spending
+685,686,2749,28,7224.96,3,1,1,311,Recent Buyers
+686,687,2564,11,2475.48,3,1,1,311,Recent Buyers
+687,688,2494,28,11433.33,1,1,1,111,Dormant Customers
+688,689,2662,14,10062.5,3,1,1,311,Recent Buyers
+689,690,2498,36,49462.38,1,3,3,133,At Risk Loyalists
+690,691,2497,20,41289.9,1,1,3,113,Big Spenders Gone Silent
+691,692,2688,12,6900.0,3,1,1,311,Recent Buyers
+692,693,2504,20,41289.9,1,1,3,113,Big Spenders Gone Silent
+693,694,2498,6,23983.36,1,1,1,111,Dormant Customers
+694,695,2515,59,7676.62,1,3,1,131,At Risk Loyalists
+695,696,2652,16,12143.39,3,1,1,311,Recent Buyers
+696,697,2498,30,16583.37,1,3,1,131,At Risk Loyalists
+697,698,2837,6,10616.75,3,1,1,311,Recent Buyers
+698,699,2480,20,18849.9,1,1,1,111,Dormant Customers
+699,700,2751,8,3066.64,3,1,1,311,Recent Buyers
+700,701,2583,28,32200.0,3,1,1,311,Recent Buyers
+701,702,2504,8,38850.0,1,1,3,113,Big Spenders Gone Silent
+702,703,2632,40,29843.43,3,3,1,331,Frequent but low spending
+703,704,2478,28,44123.33,1,1,3,113,Big Spenders Gone Silent
+704,705,2484,62,30976.61,1,3,1,131,At Risk Loyalists
+705,706,2518,26,31050.0,1,1,1,111,Dormant Customers
+706,707,2497,30,98497.85,1,3,3,133,At Risk Loyalists
+707,708,2492,42,77108.26,1,3,3,133,At Risk Loyalists
+708,709,2486,16,33783.35,1,1,3,113,Big Spenders Gone Silent
+709,710,2494,10,27883.36,1,1,1,111,Dormant Customers
+710,711,2518,36,65962.5,1,3,3,133,At Risk Loyalists
+711,712,2850,2,1035.83,3,1,1,311,Recent Buyers
+712,713,2484,44,28995.6,1,3,1,131,At Risk Loyalists
+713,714,2610,28,23750.01,3,1,1,311,Recent Buyers
+714,715,2501,28,35616.63,1,1,3,113,Big Spenders Gone Silent
+715,716,2494,14,3633.26,1,1,1,111,Dormant Customers
+716,717,2662,14,4025.0,3,1,1,311,Recent Buyers
+717,718,2493,75,40096.59,1,3,3,133,At Risk Loyalists
+718,719,2480,40,7506.39,1,3,1,131,At Risk Loyalists
+719,720,2494,16,16916.58,1,1,1,111,Dormant Customers
+720,721,2522,56,41999.93,1,3,3,133,At Risk Loyalists
+721,722,2501,28,26776.66,1,1,1,111,Dormant Customers
+722,723,2483,36,35388.32,1,3,3,133,At Risk Loyalists
+723,724,2480,32,26029.28,1,3,1,131,At Risk Loyalists
+724,725,2484,6,35950.0,1,1,3,113,Big Spenders Gone Silent
+725,726,2494,77,97713.33,1,3,3,133,At Risk Loyalists
+726,727,2484,28,20258.24,1,1,1,111,Dormant Customers
+727,728,2833,8,7156.64,3,1,1,311,Recent Buyers
+728,729,2814,4,1386.0,3,1,1,311,Recent Buyers
+729,730,2493,8,25650.03,1,1,1,111,Dormant Customers
+730,731,2480,30,23073.26,1,3,1,131,At Risk Loyalists
+731,732,2499,12,135616.6,1,1,3,113,Big Spenders Gone Silent
+732,733,2485,6,35950.0,1,1,3,113,Big Spenders Gone Silent
+733,734,2483,26,8469.9,1,1,1,111,Dormant Customers
+734,735,2504,28,17816.55,1,1,1,111,Dormant Customers
+735,736,2616,15,12853.75,3,1,1,311,Recent Buyers
+736,737,2485,18,88483.32,1,1,3,113,Big Spenders Gone Silent
+737,738,2500,24,12303.32,1,1,1,111,Dormant Customers
+738,739,2491,6,47883.28,1,1,3,113,Big Spenders Gone Silent
+739,740,2486,16,16916.58,1,1,1,111,Dormant Customers
+740,741,2830,4,390.0,3,1,1,311,Recent Buyers
+741,742,2505,30,3402.48,1,3,1,131,At Risk Loyalists
+742,743,2491,6,47883.28,1,1,3,113,Big Spenders Gone Silent
+743,744,2487,28,18116.62,1,1,1,111,Dormant Customers
+744,745,2501,32,66375.0,1,3,3,133,At Risk Loyalists
+745,746,2480,2,20100.04,1,1,1,111,Dormant Customers
+746,747,2485,38,78984.39,1,3,3,133,At Risk Loyalists
+747,748,2729,24,17500.03,3,1,1,311,Recent Buyers
+748,749,2485,18,35616.68,1,1,3,113,Big Spenders Gone Silent
+749,750,2582,24,11599.92,3,1,1,311,Recent Buyers
+750,751,2494,12,29816.69,1,1,1,111,Dormant Customers
+751,752,2483,10,57063.33,1,1,3,113,Big Spenders Gone Silent
+752,753,2478,56,98149.86,1,3,3,133,At Risk Loyalists
+753,754,2494,16,8533.35,1,1,1,111,Dormant Customers
+754,755,2787,6,2776.61,3,1,1,311,Recent Buyers
+755,756,2793,17,6720.0,3,1,1,311,Recent Buyers
+756,757,2848,2,1166.67,3,1,1,311,Recent Buyers
+757,758,2494,6,18050.0,1,1,1,111,Dormant Customers
+758,759,2480,24,18720.0,1,1,1,111,Dormant Customers
+759,760,2498,6,24016.7,1,1,1,111,Dormant Customers
+760,761,2487,30,77269.94,1,3,3,133,At Risk Loyalists
+761,762,2851,2,885.0,3,1,1,311,Recent Buyers
+762,763,2480,34,25093.24,1,3,1,131,At Risk Loyalists
+763,764,2505,14,10782.81,1,1,1,111,Dormant Customers
+764,765,2490,18,53350.0,1,1,3,113,Big Spenders Gone Silent
+765,766,2478,29,7185.75,1,3,1,131,At Risk Loyalists
+766,767,2564,34,22915.34,3,3,1,331,Frequent but low spending
+767,768,2619,18,17249.94,3,1,1,311,Recent Buyers
+768,769,2808,4,2986.66,3,1,1,311,Recent Buyers
+769,770,2549,43,16483.31,3,3,1,331,Frequent but low spending
+770,771,2485,18,39163.24,1,1,3,113,Big Spenders Gone Silent
+771,772,2485,22,9983.34,1,1,1,111,Dormant Customers
+772,773,2513,26,23910.0,1,1,1,111,Dormant Customers
+773,774,2620,18,9405.0,3,1,1,311,Recent Buyers
+774,775,2485,58,18683.28,1,3,1,131,At Risk Loyalists
+775,776,2571,20,23000.0,3,1,1,311,Recent Buyers
+776,777,2484,79,51280.0,1,3,3,133,At Risk Loyalists
+777,778,2491,32,58726.58,1,3,3,133,At Risk Loyalists
+778,779,2485,6,35950.0,1,1,3,113,Big Spenders Gone Silent
+779,780,2865,2,188.33,3,1,1,311,Recent Buyers
+780,781,2654,27,13650.05,3,1,1,311,Recent Buyers
+781,782,2484,30,72145.04,1,3,3,133,At Risk Loyalists
+782,783,2625,16,1663.2,3,1,1,311,Recent Buyers
+783,784,2835,4,746.66,3,1,1,311,Recent Buyers
+784,785,2807,23,19499.97,3,1,1,311,Recent Buyers
+785,786,2478,54,10493.32,1,3,1,131,At Risk Loyalists
+786,787,2487,28,45116.73,1,1,3,113,Big Spenders Gone Silent
+787,788,2850,4,1680.0,3,1,1,311,Recent Buyers
+788,789,2478,32,73033.37,1,3,3,133,At Risk Loyalists
+789,790,2540,30,14374.95,3,3,1,331,Frequent but low spending
+790,791,2777,32,11173.44,3,3,1,331,Frequent but low spending
+791,792,2494,52,55730.72,1,3,3,133,At Risk Loyalists
+792,793,2830,4,933.34,3,1,1,311,Recent Buyers
+793,794,2504,26,10950.0,1,1,1,111,Dormant Customers
+794,795,2483,72,42500.04,1,3,3,133,At Risk Loyalists
+795,796,2583,20,12458.3,3,1,1,311,Recent Buyers
+796,797,2490,65,31228.17,1,3,1,131,At Risk Loyalists
+797,798,2480,32,31566.62,1,3,1,131,At Risk Loyalists
+798,799,2480,40,66970.0,1,3,3,133,At Risk Loyalists
+799,800,2498,22,13916.56,1,1,1,111,Dormant Customers
+800,801,2693,28,8050.0,3,1,1,311,Recent Buyers
+801,802,2515,22,71867.95,1,1,3,113,Big Spenders Gone Silent
+802,803,2499,10,14016.6,1,1,1,111,Dormant Customers
+803,804,2493,36,54208.29,1,3,3,133,At Risk Loyalists
+804,805,2809,4,1866.66,3,1,1,311,Recent Buyers
+805,806,2487,23,1300.0,1,1,1,111,Dormant Customers
+806,807,2487,26,39050.01,1,1,3,113,Big Spenders Gone Silent
+807,808,2582,51,14098.71,3,3,1,331,Frequent but low spending
+808,809,2491,28,78608.38,1,1,3,113,Big Spenders Gone Silent
+809,810,2504,32,33599.37,1,3,1,131,At Risk Loyalists
+810,811,2484,10,27883.36,1,1,1,111,Dormant Customers
+811,812,2494,30,10103.37,1,3,1,131,At Risk Loyalists
+812,813,2854,2,47.34,3,1,1,311,Recent Buyers
+813,814,2697,12,3079.98,3,1,1,311,Recent Buyers
+814,815,2497,10,7083.36,1,1,1,111,Dormant Customers
+815,816,2479,16,16916.58,1,1,1,111,Dormant Customers
+816,817,2501,20,13239.9,1,1,1,111,Dormant Customers
+817,818,2485,16,20270.0,1,1,1,111,Dormant Customers
+818,819,2498,6,24016.7,1,1,1,111,Dormant Customers
+819,820,2498,16,10210.0,1,1,1,111,Dormant Customers
+820,821,2501,8,6462.54,1,1,1,111,Dormant Customers
+821,822,2801,10,933.3,3,1,1,311,Recent Buyers
+822,823,2480,4,7826.62,1,1,1,111,Dormant Customers
+823,824,2501,8,38850.0,1,1,3,113,Big Spenders Gone Silent
+824,825,2480,6,6116.7,1,1,1,111,Dormant Customers
+825,826,2844,2,1866.66,3,1,1,311,Recent Buyers
+826,827,2627,20,17250.0,3,1,1,311,Recent Buyers
+827,828,2487,18,17883.24,1,1,1,111,Dormant Customers
+828,829,2499,22,21783.34,1,1,1,111,Dormant Customers
+829,830,2535,24,23249.96,3,1,1,311,Recent Buyers
+830,831,2494,12,18436.9,1,1,1,111,Dormant Customers
+831,832,2487,16,16916.58,1,1,1,111,Dormant Customers
+832,833,2540,18,5785.09,3,1,1,311,Recent Buyers
+833,834,2480,24,22846.67,1,1,1,111,Dormant Customers
+834,835,2835,4,760.0,3,1,1,311,Recent Buyers
+835,836,2703,16,3371.62,3,1,1,311,Recent Buyers
+836,837,2702,24,2299.92,3,1,1,311,Recent Buyers
+837,838,2521,22,28066.52,1,1,1,111,Dormant Customers
+838,839,2667,14,3354.12,3,1,1,311,Recent Buyers
+839,840,2507,28,17841.54,1,1,1,111,Dormant Customers
+840,841,2480,26,12807.48,1,1,1,111,Dormant Customers
+841,842,2480,6,35950.0,1,1,3,113,Big Spenders Gone Silent
+842,843,2480,34,34000.03,1,3,3,133,At Risk Loyalists
+843,844,2494,8,25950.03,1,1,1,111,Dormant Customers
+844,845,2487,8,13049.94,1,1,1,111,Dormant Customers
+845,846,2504,6,24016.7,1,1,1,111,Dormant Customers
+846,847,2478,8,25950.03,1,1,1,111,Dormant Customers
+847,848,2501,12,44650.0,1,1,3,113,Big Spenders Gone Silent
+848,849,2491,31,68282.19,1,3,3,133,At Risk Loyalists
+849,850,2697,12,8049.96,3,1,1,311,Recent Buyers
+850,851,2504,6,24016.7,1,1,1,111,Dormant Customers
+851,852,2598,18,9569.97,3,1,1,311,Recent Buyers
+852,853,2497,38,8385.0,1,3,1,131,At Risk Loyalists
+853,854,2504,14,31750.02,1,1,1,111,Dormant Customers
+854,855,2494,30,18792.45,1,3,1,131,At Risk Loyalists
+855,856,2590,22,5270.76,3,1,1,311,Recent Buyers
+856,857,2491,25,35333.29,1,1,3,113,Big Spenders Gone Silent
+857,858,2501,32,54049.86,1,3,3,133,At Risk Loyalists
+858,859,2493,92,117495.81,1,3,3,133,At Risk Loyalists
+859,860,2816,4,760.0,3,1,1,311,Recent Buyers
+860,861,2490,30,4856.66,1,3,1,131,At Risk Loyalists
+861,862,2487,8,6600.03,1,1,1,111,Dormant Customers
+862,863,2504,24,48459.98,1,1,3,113,Big Spenders Gone Silent
+863,864,2504,36,38869.34,1,3,3,133,At Risk Loyalists
+864,865,2501,6,47883.28,1,1,3,113,Big Spenders Gone Silent
+865,866,2499,28,53873.33,1,1,3,113,Big Spenders Gone Silent
+866,867,2494,26,27539.88,1,1,1,111,Dormant Customers
+867,868,2490,6,24016.7,1,1,1,111,Dormant Customers
+868,869,2669,14,20125.0,3,1,1,311,Recent Buyers
+869,870,2521,9,14762.49,1,1,1,111,Dormant Customers
+870,871,2478,52,20525.0,1,3,1,131,At Risk Loyalists
+871,872,2485,32,66786.72,1,3,3,133,At Risk Loyalists
+872,873,2506,10,27883.36,1,1,1,111,Dormant Customers
+873,874,2610,29,31933.4,3,3,1,331,Frequent but low spending
+874,875,2497,18,17883.24,1,1,1,111,Dormant Customers
+875,876,2697,19,4793.28,3,1,1,311,Recent Buyers
+876,877,2501,4,11116.62,1,1,1,111,Dormant Customers
+877,878,2494,26,53512.44,1,1,3,113,Big Spenders Gone Silent
+878,879,2480,18,9016.68,1,1,1,111,Dormant Customers
+879,880,2505,28,5688.22,1,1,1,111,Dormant Customers
+880,881,2816,4,2753.32,3,1,1,311,Recent Buyers
+881,882,2479,2,40099.96,1,1,3,113,Big Spenders Gone Silent
+882,883,2478,30,11891.66,1,3,1,131,At Risk Loyalists
+883,884,2492,32,99873.28,1,3,3,133,At Risk Loyalists
+884,885,2500,34,17665.29,1,3,1,131,At Risk Loyalists
+885,886,2493,10,14016.6,1,1,1,111,Dormant Customers
+886,887,2485,26,46806.56,1,1,3,113,Big Spenders Gone Silent
+887,888,2687,24,5749.92,3,1,1,311,Recent Buyers
+888,889,2487,30,42083.28,1,3,3,133,At Risk Loyalists
+889,890,2556,38,3641.73,3,3,1,331,Frequent but low spending
+890,891,2490,38,11279.14,1,3,1,131,At Risk Loyalists
+891,892,2504,22,54750.0,1,1,3,113,Big Spenders Gone Silent
+892,893,2494,4,22083.37,1,1,1,111,Dormant Customers
+893,894,2501,26,10950.0,1,1,1,111,Dormant Customers
+894,895,2480,20,20720.01,1,1,1,111,Dormant Customers
+895,896,2484,10,20950.0,1,1,1,111,Dormant Customers
+896,897,2827,7,2798.84,3,1,1,311,Recent Buyers
+897,898,2487,30,72833.2,1,3,3,133,At Risk Loyalists
+898,899,2500,26,21683.24,1,1,1,111,Dormant Customers
+899,900,2850,4,26149.92,3,1,1,311,Recent Buyers
+900,901,2499,16,50450.0,1,1,3,113,Big Spenders Gone Silent
+901,902,2728,42,10062.36,3,3,1,331,Frequent but low spending
+902,903,2480,61,18039.96,1,3,1,131,At Risk Loyalists
+903,904,2494,22,54438.81,1,1,3,113,Big Spenders Gone Silent
+904,905,2498,4,22083.37,1,1,1,111,Dormant Customers
+905,906,2787,10,2925.0,3,1,1,311,Recent Buyers
+906,907,2494,12,29816.69,1,1,1,111,Dormant Customers
+907,908,2485,36,55327.62,1,3,3,133,At Risk Loyalists
+908,909,2498,30,55016.64,1,3,3,133,At Risk Loyalists
+909,910,2487,24,33163.22,1,1,1,111,Dormant Customers
+910,911,2480,30,34520.0,1,3,3,133,At Risk Loyalists
+911,912,2504,8,38850.0,1,1,3,113,Big Spenders Gone Silent
+912,913,2485,22,6050.0,1,1,1,111,Dormant Customers
+913,914,2525,36,92365.69,1,3,3,133,At Risk Loyalists
+914,915,2485,32,10325.0,1,3,1,131,At Risk Loyalists
+915,916,2480,65,21763.32,1,3,1,131,At Risk Loyalists
+916,917,2485,22,4083.34,1,1,1,111,Dormant Customers
+917,918,2843,2,1900.0,3,1,1,311,Recent Buyers
+918,919,2515,40,49681.53,1,3,3,133,At Risk Loyalists
+919,920,2504,26,16916.58,1,1,1,111,Dormant Customers
+920,921,2707,36,8624.88,3,3,1,331,Frequent but low spending
+921,922,2492,18,53350.0,1,1,3,113,Big Spenders Gone Silent
+922,923,2480,24,15908.22,1,1,1,111,Dormant Customers
+923,924,2490,4,5633.37,1,1,1,111,Dormant Customers
+924,925,2506,20,37250.04,1,1,3,113,Big Spenders Gone Silent
+925,926,2826,8,773.32,3,1,1,311,Recent Buyers
+926,927,2494,32,9799.08,1,3,1,131,At Risk Loyalists
+927,928,2480,8,38850.0,1,1,3,113,Big Spenders Gone Silent
+928,929,2487,24,16656.67,1,1,1,111,Dormant Customers
+929,930,2836,8,7020.0,3,1,1,311,Recent Buyers
+930,931,2492,16,16916.58,1,1,1,111,Dormant Customers
+931,932,2501,24,12530.0,1,1,1,111,Dormant Customers
+932,933,2659,14,32802.72,3,1,1,311,Recent Buyers
+933,934,2487,20,11370.0,1,1,1,111,Dormant Customers
+934,935,2480,16,8533.35,1,1,1,111,Dormant Customers
+935,936,2858,2,186.66,3,1,1,311,Recent Buyers
+936,937,2560,45,26699.93,3,3,1,331,Frequent but low spending
+937,938,2507,28,22096.56,1,1,1,111,Dormant Customers
+938,939,2497,26,50996.56,1,1,3,113,Big Spenders Gone Silent
+939,940,2490,12,29816.69,1,1,1,111,Dormant Customers
+940,941,2505,12,3837.46,1,1,1,111,Dormant Customers
+941,942,2504,28,29166.6,1,1,1,111,Dormant Customers
+942,943,2765,10,848.89,3,1,1,311,Recent Buyers
+943,944,2497,12,14983.26,1,1,1,111,Dormant Customers
+944,945,2787,19,1755.0,3,1,1,311,Recent Buyers
+945,946,2556,22,5270.76,3,1,1,311,Recent Buyers
+946,947,2652,32,21295.06,3,3,1,331,Frequent but low spending
+947,948,2480,26,35566.62,1,1,3,113,Big Spenders Gone Silent
+948,949,2483,22,15883.34,1,1,1,111,Dormant Customers
+949,950,2494,10,14016.6,1,1,1,111,Dormant Customers
+950,951,2501,28,24647.46,1,1,1,111,Dormant Customers
+951,952,2800,8,3213.2,3,1,1,311,Recent Buyers
+952,953,2480,46,31416.48,1,3,1,131,At Risk Loyalists
+953,954,2753,8,4803.72,3,1,1,311,Recent Buyers
+954,955,2485,18,35616.68,1,1,3,113,Big Spenders Gone Silent
+955,956,2675,14,13416.62,3,1,1,311,Recent Buyers
+956,957,2759,8,1916.64,3,1,1,311,Recent Buyers
+957,958,2485,50,25718.31,1,3,1,131,At Risk Loyalists
+958,959,2501,28,59983.28,1,1,3,113,Big Spenders Gone Silent
+959,960,2479,22,11950.0,1,1,1,111,Dormant Customers
+960,961,2760,8,1130.0,3,1,1,311,Recent Buyers
+961,962,2506,27,27341.53,1,1,1,111,Dormant Customers
+962,963,2487,16,16916.58,1,1,1,111,Dormant Customers
+963,964,2480,36,17665.68,1,3,1,131,At Risk Loyalists
+964,965,2498,18,9016.68,1,1,1,111,Dormant Customers
+965,966,2492,28,13370.0,1,1,1,111,Dormant Customers
+966,967,2491,30,6813.37,1,3,1,131,At Risk Loyalists
+967,968,2479,14,47550.0,1,1,3,113,Big Spenders Gone Silent
+968,969,2483,62,41409.98,1,3,3,133,At Risk Loyalists
+969,970,2480,20,9500.01,1,1,1,111,Dormant Customers
+970,971,2498,6,47883.28,1,1,3,113,Big Spenders Gone Silent
+971,972,2486,16,16916.58,1,1,1,111,Dormant Customers
+972,973,2490,18,1923.24,1,1,1,111,Dormant Customers
+973,974,2492,22,17850.0,1,1,1,111,Dormant Customers
+974,975,2480,24,41416.67,1,1,3,113,Big Spenders Gone Silent
+975,976,2645,16,3833.28,3,1,1,311,Recent Buyers
+976,977,2494,6,47883.28,1,1,3,113,Big Spenders Gone Silent
+977,978,2830,4,3733.32,3,1,1,311,Recent Buyers
+978,979,2485,36,56213.24,1,3,3,133,At Risk Loyalists
+979,980,2494,6,47883.28,1,1,3,113,Big Spenders Gone Silent
+980,981,2837,6,862.5,3,1,1,311,Recent Buyers
+981,982,2479,24,10466.67,1,1,1,111,Dormant Customers
+982,983,2487,36,13295.76,1,3,1,131,At Risk Loyalists
+983,984,2480,6,47883.28,1,1,3,113,Big Spenders Gone Silent
+984,985,2501,28,17410.01,1,1,1,111,Dormant Customers
+985,986,2850,2,1400.0,3,1,1,311,Recent Buyers
+986,987,2858,4,538.21,3,1,1,311,Recent Buyers
+987,988,2480,18,9016.68,1,1,1,111,Dormant Customers
+988,989,2485,28,23316.54,1,1,1,111,Dormant Customers
+989,990,2504,6,24016.7,1,1,1,111,Dormant Customers
+990,991,2480,32,73555.0,1,3,3,133,At Risk Loyalists
+991,992,2494,12,19270.76,1,1,1,111,Dormant Customers
+992,993,2498,14,1729.92,1,1,1,111,Dormant Customers
+993,994,2519,28,26004.1,1,1,1,111,Dormant Customers
+994,995,2508,68,4578.75,1,3,1,131,At Risk Loyalists
+995,996,2767,8,3599.96,3,1,1,311,Recent Buyers
+996,997,2529,26,34549.92,3,1,3,313,Recent Buyers
+997,998,2485,10,14016.6,1,1,1,111,Dormant Customers
+998,999,2487,12,14983.26,1,1,1,111,Dormant Customers
+999,1000,2491,28,14899.97,1,1,1,111,Dormant Customers
+1000,1001,2501,8,6600.03,1,1,1,111,Dormant Customers
+1001,1002,2505,18,39163.24,1,1,3,113,Big Spenders Gone Silent
+1002,1003,2497,6,24016.7,1,1,1,111,Dormant Customers
+1003,1004,2487,30,62831.38,1,3,3,133,At Risk Loyalists
+1004,1005,2487,16,33683.35,1,1,3,113,Big Spenders Gone Silent
+1005,1006,2494,16,33783.35,1,1,3,113,Big Spenders Gone Silent
+1006,1007,2479,65,23470.0,1,3,1,131,At Risk Loyalists
+1007,1008,2773,8,7600.0,3,1,1,311,Recent Buyers
+1008,1009,2681,14,2012.5,3,1,1,311,Recent Buyers
+1009,1010,2479,20,16980.0,1,1,1,111,Dormant Customers
+1010,1011,2750,4,2915.13,3,1,1,311,Recent Buyers
+1011,1012,2695,12,6900.0,3,1,1,311,Recent Buyers
+1012,1013,2494,6,24016.7,1,1,1,111,Dormant Customers
+1013,1014,2497,12,14983.26,1,1,1,111,Dormant Customers
+1014,1015,2549,25,35899.99,3,1,3,313,Recent Buyers
+1015,1016,2487,12,14983.26,1,1,1,111,Dormant Customers
+1016,1017,2490,6,47883.28,1,1,3,113,Big Spenders Gone Silent
+1017,1018,2494,24,33016.59,1,1,1,111,Dormant Customers
+1018,1019,2487,16,16916.58,1,1,1,111,Dormant Customers
+1019,1020,2828,4,950.0,3,1,1,311,Recent Buyers
+1020,1021,2704,25,5973.95,3,1,1,311,Recent Buyers
+1021,1022,2564,5,2030.0,3,1,1,311,Recent Buyers
+1022,1023,2499,26,37352.09,1,1,3,113,Big Spenders Gone Silent
+1023,1024,2480,34,22826.62,1,3,1,131,At Risk Loyalists
+1024,1025,2520,37,76892.1,1,3,3,133,At Risk Loyalists
+1025,1026,2785,16,8181.27,3,1,1,311,Recent Buyers
+1026,1027,2478,22,14933.26,1,1,1,111,Dormant Customers
+1027,1028,2480,26,18824.88,1,1,1,111,Dormant Customers
+1028,1029,2499,22,29650.0,1,1,1,111,Dormant Customers
+1029,1030,2786,6,2280.0,3,1,1,311,Recent Buyers
+1030,1031,2498,4,11116.62,1,1,1,111,Dormant Customers
+1031,1032,2682,14,5985.0,3,1,1,311,Recent Buyers
+1032,1033,2479,41,39587.5,1,3,3,133,At Risk Loyalists
+1033,1034,2494,10,54376.6,1,1,3,113,Big Spenders Gone Silent
+1034,1035,2483,18,35616.68,1,1,3,113,Big Spenders Gone Silent
+1035,1036,2480,30,16228.2,1,3,1,131,At Risk Loyalists
+1036,1037,2484,14,31157.04,1,1,1,111,Dormant Customers
+1037,1038,2497,32,54386.15,1,3,3,133,At Risk Loyalists
+1038,1039,2485,24,23744.98,1,1,1,111,Dormant Customers
+1039,1040,2493,20,9500.01,1,1,1,111,Dormant Customers
+1040,1041,2491,12,67883.36,1,1,3,113,Big Spenders Gone Silent
+1041,1042,2484,38,19599.99,1,3,1,131,At Risk Loyalists
+1042,1043,2485,26,17430.0,1,1,1,111,Dormant Customers
+1043,1044,2631,16,13920.0,3,1,1,311,Recent Buyers
+1044,1045,2498,4,22083.37,1,1,1,111,Dormant Customers
+1045,1046,2480,30,19333.23,1,3,1,131,At Risk Loyalists
+1046,1047,2487,24,22846.67,1,1,1,111,Dormant Customers
+1047,1048,2487,8,31899.93,1,1,1,111,Dormant Customers
+1048,1049,2486,10,7776.6,1,1,1,111,Dormant Customers
+1049,1050,2480,14,31750.02,1,1,1,111,Dormant Customers
+1050,1051,2667,14,6037.5,3,1,1,311,Recent Buyers
+1051,1052,2506,26,13110.0,1,1,1,111,Dormant Customers
+1052,1053,2487,58,32779.48,1,3,1,131,At Risk Loyalists
+1053,1054,2851,2,196.66,3,1,1,311,Recent Buyers
+1054,1055,2505,26,17943.3,1,1,1,111,Dormant Customers
+1055,1056,2808,4,746.66,3,1,1,311,Recent Buyers
+1056,1057,2483,24,2213.22,1,1,1,111,Dormant Customers
+1057,1058,2480,32,38078.28,1,3,3,133,At Risk Loyalists
+1058,1059,2498,12,7566.69,1,1,1,111,Dormant Customers
+1059,1060,2506,28,20460.0,1,1,1,111,Dormant Customers
+1060,1061,2494,8,13049.94,1,1,1,111,Dormant Customers
+1061,1062,2490,20,5760.0,1,1,1,111,Dormant Customers
+1062,1063,2505,22,4083.34,1,1,1,111,Dormant Customers
+1063,1064,2505,10,27883.36,1,1,1,111,Dormant Customers
+1064,1065,2487,8,38850.0,1,1,3,113,Big Spenders Gone Silent
+1065,1066,2843,2,733.33,3,1,1,311,Recent Buyers
+1066,1067,2753,8,3833.32,3,1,1,311,Recent Buyers
+1067,1068,2497,22,19816.56,1,1,1,111,Dormant Customers
+1068,1069,2483,30,55319.99,1,3,3,133,At Risk Loyalists
+1069,1070,2540,24,10844.07,3,1,1,311,Recent Buyers
+1070,1071,2479,44,9681.9,1,3,1,131,At Risk Loyalists
+1071,1072,2491,28,29443.22,1,1,1,111,Dormant Customers
+1072,1073,2480,26,53160.0,1,1,3,113,Big Spenders Gone Silent
+1073,1074,2507,12,44650.0,1,1,3,113,Big Spenders Gone Silent
+1074,1075,2492,24,10466.67,1,1,1,111,Dormant Customers
+1075,1076,2564,33,5028.9,3,3,1,331,Frequent but low spending
+1076,1077,2564,20,5800.0,3,1,1,311,Recent Buyers
+1077,1078,2493,16,16916.58,1,1,1,111,Dormant Customers
+1078,1079,2498,16,16916.58,1,1,1,111,Dormant Customers
+1079,1080,2484,61,7800.0,1,3,1,131,At Risk Loyalists
+1080,1081,2505,32,70237.5,1,3,3,133,At Risk Loyalists
+1081,1082,2480,18,53350.0,1,1,3,113,Big Spenders Gone Silent
+1082,1083,2485,20,18849.9,1,1,1,111,Dormant Customers
+1083,1084,2501,26,18824.88,1,1,1,111,Dormant Customers
+1084,1085,2613,20,3866.64,3,1,1,311,Recent Buyers
+1085,1086,2823,4,760.0,3,1,1,311,Recent Buyers
+1086,1087,2486,30,63763.33,1,3,3,133,At Risk Loyalists
+1087,1088,2501,26,4470.0,1,1,1,111,Dormant Customers
+1088,1089,2505,28,18366.57,1,1,1,111,Dormant Customers
+1089,1090,2501,6,35950.0,1,1,3,113,Big Spenders Gone Silent
+1090,1091,2492,6,24016.7,1,1,1,111,Dormant Customers
+1091,1092,2478,26,65050.0,1,1,3,113,Big Spenders Gone Silent
+1092,1093,2492,30,57350.0,1,3,3,133,At Risk Loyalists
+1093,1094,2491,53,35322.63,1,3,3,133,At Risk Loyalists
+1094,1095,2833,2,54.7,3,1,1,311,Recent Buyers
+1095,1096,2480,18,9016.68,1,1,1,111,Dormant Customers
+1096,1097,2480,8,13049.94,1,1,1,111,Dormant Customers
+1097,1098,2483,37,31238.76,1,3,1,131,At Risk Loyalists
+1098,1099,2501,12,44650.0,1,1,3,113,Big Spenders Gone Silent
+1099,1100,2484,10,41750.0,1,1,3,113,Big Spenders Gone Silent
+1100,1101,2505,18,39163.24,1,1,3,113,Big Spenders Gone Silent
+1101,1102,2599,18,11212.47,3,1,1,311,Recent Buyers
+1102,1103,2494,40,10504.11,1,3,1,131,At Risk Loyalists
+1103,1104,2520,26,28229.88,1,1,1,111,Dormant Customers
+1104,1105,2494,30,56960.0,1,3,3,133,At Risk Loyalists
+1105,1106,2702,12,11499.96,3,1,1,311,Recent Buyers
+1106,1107,2487,8,51749.94,1,1,3,113,Big Spenders Gone Silent
+1107,1108,2504,28,56846.28,1,1,3,113,Big Spenders Gone Silent
+1108,1109,2498,14,15949.92,1,1,1,111,Dormant Customers
+1109,1110,2507,28,61775.0,1,1,3,113,Big Spenders Gone Silent
+1110,1111,2491,16,33683.35,1,1,3,113,Big Spenders Gone Silent
+1111,1112,2492,10,27263.36,1,1,1,111,Dormant Customers
+1112,1113,2697,12,1149.96,3,1,1,311,Recent Buyers
+1113,1114,2492,28,4663.33,1,1,1,111,Dormant Customers
+1114,1115,2493,30,6641.14,1,3,1,131,At Risk Loyalists
+1115,1116,2529,26,51750.0,3,1,3,313,Recent Buyers
+1116,1117,2491,10,14016.6,1,1,1,111,Dormant Customers
+1117,1118,2491,4,11116.62,1,1,1,111,Dormant Customers
+1118,1119,2772,8,7333.32,3,1,1,311,Recent Buyers
+1119,1120,2480,26,27383.24,1,1,1,111,Dormant Customers
+1120,1121,2487,32,4950.82,1,3,1,131,At Risk Loyalists
+1121,1122,2494,28,31750.03,1,1,1,111,Dormant Customers
+1122,1123,2556,22,6380.0,3,1,1,311,Recent Buyers
+1123,1124,2654,81,15035.82,3,3,1,331,Frequent but low spending
+1124,1125,2487,30,17445.78,1,3,1,131,At Risk Loyalists
+1125,1126,2487,67,10333.3,1,3,1,131,At Risk Loyalists
+1126,1127,2494,12,14983.26,1,1,1,111,Dormant Customers
+1127,1128,2501,78,38506.7,1,3,3,133,At Risk Loyalists
+1128,1129,2483,10,9163.36,1,1,1,111,Dormant Customers
+1129,1130,2487,30,56960.0,1,3,3,133,At Risk Loyalists
+1130,1131,2491,22,39483.34,1,1,3,113,Big Spenders Gone Silent
+1131,1132,2744,10,3833.3,3,1,1,311,Recent Buyers
+1132,1133,2499,10,1536.6,1,1,1,111,Dormant Customers
+1133,1134,2491,28,34198.22,1,1,3,113,Big Spenders Gone Silent
+1134,1135,2497,41,38136.5,1,3,3,133,At Risk Loyalists
+1135,1136,2578,20,23749.9,3,1,1,311,Recent Buyers
+1136,1137,2483,14,8050.02,1,1,1,111,Dormant Customers
+1137,1138,2498,14,8050.02,1,1,1,111,Dormant Customers
+1138,1139,2487,20,18366.57,1,1,1,111,Dormant Customers
+1139,1140,2492,14,15383.26,1,1,1,111,Dormant Customers
+1140,1141,2491,12,14983.26,1,1,1,111,Dormant Customers
+1141,1142,2506,16,8533.35,1,1,1,111,Dormant Customers
+1142,1143,2500,12,13500.0,1,1,1,111,Dormant Customers
+1143,1144,2480,6,24016.7,1,1,1,111,Dormant Customers
+1144,1145,2498,10,7083.36,1,1,1,111,Dormant Customers
+1145,1146,2480,14,1729.92,1,1,1,111,Dormant Customers
+1146,1147,2485,10,7083.36,1,1,1,111,Dormant Customers
+1147,1148,2485,12,14983.26,1,1,1,111,Dormant Customers
+1148,1149,2480,6,6116.7,1,1,1,111,Dormant Customers
+1149,1150,2504,4,22083.37,1,1,1,111,Dormant Customers
+1150,1151,2492,6,35950.0,1,1,3,113,Big Spenders Gone Silent
+1151,1152,2494,8,25900.05,1,1,1,111,Dormant Customers
+1152,1153,2491,10,27883.36,1,1,1,111,Dormant Customers
+1153,1154,2480,8,25950.03,1,1,1,111,Dormant Customers
+1154,1155,2498,4,5633.37,1,1,1,111,Dormant Customers
+1155,1156,2478,8,25950.03,1,1,1,111,Dormant Customers
+1156,1157,2478,12,29816.69,1,1,1,111,Dormant Customers
+1157,1158,2480,2,20100.04,1,1,1,111,Dormant Customers
+1158,1159,2480,4,22083.37,1,1,1,111,Dormant Customers
+1159,1160,2498,4,22083.37,1,1,1,111,Dormant Customers
+1160,1161,2487,8,6600.03,1,1,1,111,Dormant Customers
+1161,1162,2493,16,16916.58,1,1,1,111,Dormant Customers
+1162,1163,2480,8,6600.03,1,1,1,111,Dormant Customers
+1163,1164,2504,4,22083.37,1,1,1,111,Dormant Customers
+1164,1165,2494,12,7566.69,1,1,1,111,Dormant Customers
+1165,1166,2494,6,6116.7,1,1,1,111,Dormant Customers
+1166,1167,2480,8,25950.03,1,1,1,111,Dormant Customers
+1167,1168,2487,4,11116.62,1,1,1,111,Dormant Customers
+1168,1169,2492,8,15630.0,1,1,1,111,Dormant Customers
+1169,1170,2504,6,12083.28,1,1,1,111,Dormant Customers
+1170,1171,2507,10,14016.6,1,1,1,111,Dormant Customers
+1171,1172,2479,16,33683.35,1,1,3,113,Big Spenders Gone Silent
+1172,1173,2491,16,33683.35,1,1,3,113,Big Spenders Gone Silent
+1173,1174,2480,12,14983.26,1,1,1,111,Dormant Customers
+1174,1175,2493,10,14016.6,1,1,1,111,Dormant Customers
+1175,1176,2494,8,6600.03,1,1,1,111,Dormant Customers
+1176,1177,2494,4,43463.32,1,1,3,113,Big Spenders Gone Silent
+1177,1178,2494,18,9116.68,1,1,1,111,Dormant Customers
+1178,1179,2504,6,29329.15,1,1,1,111,Dormant Customers
+1179,1180,2501,8,13049.94,1,1,1,111,Dormant Customers
+1180,1181,2484,10,27883.36,1,1,1,111,Dormant Customers
+1181,1182,2487,8,25950.03,1,1,1,111,Dormant Customers
+1182,1183,2490,4,5633.37,1,1,1,111,Dormant Customers
+1183,1184,2480,8,13049.94,1,1,1,111,Dormant Customers
+1184,1185,2490,12,14983.26,1,1,1,111,Dormant Customers
+1185,1186,2480,12,14983.26,1,1,1,111,Dormant Customers
+1186,1187,2498,6,12083.28,1,1,1,111,Dormant Customers
+1187,1188,2493,10,7083.36,1,1,1,111,Dormant Customers
+1188,1189,2491,12,29816.69,1,1,1,111,Dormant Customers
+1189,1190,2501,12,14983.26,1,1,1,111,Dormant Customers
+1190,1191,2483,10,14016.6,1,1,1,111,Dormant Customers
+1191,1192,2483,10,27983.36,1,1,1,111,Dormant Customers
+1192,1193,2498,24,102383.26,1,1,3,113,Big Spenders Gone Silent
+1193,1194,2478,2,20100.04,1,1,1,111,Dormant Customers
+1194,1195,2478,41,284276.59,1,3,3,133,At Risk Loyalists
+1195,1196,2480,10,27883.36,1,1,1,111,Dormant Customers
+1196,1197,2505,10,67933.36,1,1,3,113,Big Spenders Gone Silent
+1197,1198,2483,32,8150.96,1,3,1,131,At Risk Loyalists
+1198,1199,2499,10,7083.36,1,1,1,111,Dormant Customers
+1199,1200,2491,6,11733.31,1,1,1,111,Dormant Customers
+1200,1201,2486,10,14966.1,1,1,1,111,Dormant Customers
+1201,1202,2486,10,27883.36,1,1,1,111,Dormant Customers
+1202,1203,2483,10,14016.6,1,1,1,111,Dormant Customers
+1203,1204,2479,10,60375.03,1,1,3,113,Big Spenders Gone Silent
+1204,1205,2511,6,154270.9,1,1,3,113,Big Spenders Gone Silent
+1205,1206,2501,8,62812.56,1,1,3,113,Big Spenders Gone Silent
+1206,1207,2479,10,67083.39,1,1,3,113,Big Spenders Gone Silent
+1207,1208,2507,8,62812.56,1,1,3,113,Big Spenders Gone Silent
+1208,1209,2492,10,14016.6,1,1,1,111,Dormant Customers
+1209,1210,2479,18,17883.24,1,1,1,111,Dormant Customers
+1210,1211,2492,10,7083.36,1,1,1,111,Dormant Customers
+1211,1212,2480,12,14983.26,1,1,1,111,Dormant Customers
+1212,1213,2487,14,15949.92,1,1,1,111,Dormant Customers
+1213,1214,2479,10,1536.6,1,1,1,111,Dormant Customers
+1214,1215,2480,2,9999.98,1,1,1,111,Dormant Customers
+1215,1216,2504,6,23706.7,1,1,1,111,Dormant Customers
+1216,1217,2494,8,37687.53,1,1,3,113,Big Spenders Gone Silent
+1217,1218,2480,8,37687.53,1,1,3,113,Big Spenders Gone Silent
+1218,1219,2501,8,62812.56,1,1,3,113,Big Spenders Gone Silent
+1219,1220,2486,8,62812.56,1,1,3,113,Big Spenders Gone Silent
+1220,1221,2498,6,35125.03,1,1,3,113,Big Spenders Gone Silent
+1221,1222,2483,16,47937.53,1,1,3,113,Big Spenders Gone Silent
+1222,1223,2494,8,25950.03,1,1,1,111,Dormant Customers
+1223,1224,2501,8,37837.5,1,1,3,113,Big Spenders Gone Silent
+1224,1225,2494,12,35350.02,1,1,3,113,Big Spenders Gone Silent
+1225,1226,2478,6,35950.0,1,1,3,113,Big Spenders Gone Silent
+1226,1227,2494,4,54329.23,1,1,3,113,Big Spenders Gone Silent
+1227,1228,2480,8,63487.53,1,1,3,113,Big Spenders Gone Silent
+1228,1229,2485,6,24016.7,1,1,1,111,Dormant Customers
+1229,1230,2494,4,22083.37,1,1,1,111,Dormant Customers
+1230,1231,2494,6,35950.0,1,1,3,113,Big Spenders Gone Silent
+1231,1232,2480,6,6116.7,1,1,1,111,Dormant Customers
+1232,1233,2497,6,35950.0,1,1,3,113,Big Spenders Gone Silent
+1233,1234,2487,8,38850.0,1,1,3,113,Big Spenders Gone Silent
+1234,1235,2493,8,38850.0,1,1,3,113,Big Spenders Gone Silent
+1235,1236,2483,6,24016.7,1,1,1,111,Dormant Customers
+1236,1237,2483,6,24016.7,1,1,1,111,Dormant Customers
+1237,1238,2487,6,6116.7,1,1,1,111,Dormant Customers
+1238,1239,2480,4,22083.37,1,1,1,111,Dormant Customers
+1239,1240,2480,10,14016.6,1,1,1,111,Dormant Customers
+1240,1241,2497,12,29041.69,1,1,1,111,Dormant Customers
+1241,1242,2492,8,25950.03,1,1,1,111,Dormant Customers
+1242,1243,2498,6,24016.7,1,1,1,111,Dormant Customers
+1243,1244,2484,4,33050.0,1,1,1,111,Dormant Customers
+1244,1245,2478,10,27883.36,1,1,1,111,Dormant Customers
+1245,1246,2478,8,19500.0,1,1,1,111,Dormant Customers
+1246,1247,2497,8,5569.0,1,1,1,111,Dormant Customers
+1247,1248,2505,6,24016.7,1,1,1,111,Dormant Customers
+1248,1249,2498,4,27164.57,1,1,1,111,Dormant Customers
+1249,1250,2478,6,29329.15,1,1,1,111,Dormant Customers
+1250,1251,2504,6,29329.15,1,1,1,111,Dormant Customers
+1251,1252,2493,10,67316.71,1,1,3,113,Big Spenders Gone Silent
+1252,1253,2499,6,58658.41,1,1,3,113,Big Spenders Gone Silent
+1253,1254,2478,12,44650.0,1,1,3,113,Big Spenders Gone Silent
+1254,1255,2484,6,23613.38,1,1,1,111,Dormant Customers
+1255,1256,2484,6,24016.7,1,1,1,111,Dormant Customers
+1256,1257,2480,6,35950.0,1,1,3,113,Big Spenders Gone Silent
+1257,1258,2501,4,5633.37,1,1,1,111,Dormant Customers
+1258,1259,2483,4,200541.98,1,1,3,113,Big Spenders Gone Silent
+1259,1260,2501,4,33050.0,1,1,1,111,Dormant Customers
+1260,1261,2494,4,5587.54,1,1,1,111,Dormant Customers
+1261,1262,2487,10,46060.85,1,1,3,113,Big Spenders Gone Silent
+1262,1263,2494,4,10865.82,1,1,1,111,Dormant Customers
+1263,1264,2494,4,16298.78,1,1,1,111,Dormant Customers
+1264,1265,2494,4,21731.73,1,1,1,111,Dormant Customers
+1265,1266,2487,4,54329.23,1,1,3,113,Big Spenders Gone Silent
+1266,1267,2479,4,162987.53,1,1,3,113,Big Spenders Gone Silent
+1267,1268,2480,4,54329.23,1,1,3,113,Big Spenders Gone Silent
+1268,1269,2487,4,217316.74,1,1,3,113,Big Spenders Gone Silent
+1269,1270,2494,4,59762.07,1,1,3,113,Big Spenders Gone Silent
+1270,1271,2483,4,21731.73,1,1,1,111,Dormant Customers
+1271,1272,2487,4,21731.73,1,1,1,111,Dormant Customers
+1272,1273,2490,4,11116.62,1,1,1,111,Dormant Customers
+1273,1274,2480,4,21731.73,1,1,1,111,Dormant Customers
+1274,1275,2479,2,9999.98,1,1,1,111,Dormant Customers
+1275,1276,2480,4,27164.57,1,1,1,111,Dormant Customers
+1276,1277,2484,4,21731.73,1,1,1,111,Dormant Customers
+1277,1278,2480,2,9999.98,1,1,1,111,Dormant Customers
+1278,1279,2480,4,108658.32,1,1,3,113,Big Spenders Gone Silent
+1279,1280,2483,4,21731.73,1,1,1,111,Dormant Customers
+1280,1281,2480,2,20000.06,1,1,1,111,Dormant Customers
